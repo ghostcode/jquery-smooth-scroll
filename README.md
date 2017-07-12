@@ -1,5 +1,10 @@
 # jquery-smooth-scroll
 
+demo
+--
+
+https://ghostcode.github.io/jquery-smooth-scroll/
+
 options
 --
 
