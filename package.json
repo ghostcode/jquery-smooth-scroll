@@ -1,0 +1,23 @@
+{
+  "name": "jquery-smooth-scroll",
+  "version": "1.0.0",
+  "description": "jQuery平滑滚动",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostcode/jquery-smooth-scroll.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghostcode/jquery-smooth-scroll/issues"
+  },
+  "homepage": "https://github.com/ghostcode/jquery-smooth-scroll#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
