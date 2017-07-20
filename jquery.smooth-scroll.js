@@ -21,11 +21,10 @@
                     let hash = this.hash,
                         $hash = $(this.hash)
 
-                    if ($top >= $hash.scrollTop()) {
+                    if ($top >= $hash.offset().top) {
                         $targets.removeClass('xxx')
                         $(`a[href="${hash}"]`).addClass('xxx');
-                        console.log(1111)
-                        return false
+                        // return false
                     }
                 })
                 self.flag = null
