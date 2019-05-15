@@ -22,8 +22,8 @@
                         $hash = $(this.hash)
 
                     if ($top >= $hash.offset().top) {
-                        $targets.removeClass('xxx')
-                        $(`a[href="${hash}"]`).addClass('xxx');
+                        $targets.removeClass('active')
+                        $(`a[href="${hash}"]`).addClass('active');
                         // return false
                     }
                 })
